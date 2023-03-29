@@ -9,9 +9,9 @@ img{
 }
 */
 
-/************************TAG SELECTORS***********************/
+/************************CLASS SELECTORS***********************/
 .bacon {
-  backgroun-color: green;
+  background-color: green;
 }
 .broccoli {
   background-color: red;
