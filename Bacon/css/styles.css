@@ -1,6 +1,18 @@
+/************************TAG SELECTORS***********************/
 h1 {
     color: red; font-size: 200px;
 }
+
+/*
 img{
     background-color: red;
+}
+*/
+
+/************************TAG SELECTORS***********************/
+.bacon {
+  backgroun-color: green;
+}
+.broccoli {
+  background-color: red;
 }
