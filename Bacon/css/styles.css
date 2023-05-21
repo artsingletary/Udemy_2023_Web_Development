@@ -4,10 +4,11 @@ h1 {
 }
 
 /*
+*/
+
 img{
     background-color: red;
 }
-*/
 
 /************************CLASS SELECTORS***********************/
 .bacon {
@@ -15,4 +16,9 @@ img{
 }
 .broccoli {
   background-color: red;
+}
+
+/************************ID SELECTORS***********************/
+#heading {
+    background-color: blue;
 }
